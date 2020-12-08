@@ -7,7 +7,7 @@
  search engine, and own text editor.
  
 ### Steps:
-    #Building Web Blog Application (Done)
+    #Building Web Blog Application (Done)✅
     - Installing Django
     - Creating and configuring a Django project
     - Creating a Django application
@@ -18,7 +18,7 @@
     - Adding pagination to list views
     - Using Django's class-based views
     
-    #Enhancing Your Blog with Advanced Features  
+    #Enhancing Your Blog with Advanced Features  (Done)✅
     - Sending emails with Django
     - Creating forms and handling them in views
     - Creating forms from models
