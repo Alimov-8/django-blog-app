@@ -1,5 +1,5 @@
 # Web Blog Application 🔖
-## 🔗 Link for web site: soon ...
+## 🔗 Link for web site: https://iut-deadlines.herokuapp.com/
 
 ### Django3 By Examples Antonio Mele Book 🚀📚
   Blog Application with tagging system, commenting feature, 
