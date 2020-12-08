@@ -1,7 +1,7 @@
 # Web Blog Application 🔖
 ## 🔗 Link for web site: https://iut-deadlines.herokuapp.com/
 
-### Django3 By Examples Antonio Mele Book 🚀📚
+### Django3 🚀📚
   Blog Application with tagging system, commenting feature, 
  sharing posts via e-mail, recommending similar posts with custom 
  search engine, and own text editor.
