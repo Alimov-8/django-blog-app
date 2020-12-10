@@ -1,5 +1,5 @@
 # Web Blog Application 🔖
-## 🔗 Link for web site: https://iut-deadlines.herokuapp.com/
+## 🔗 Link for web site: https://iut-deadlines.live/
 
 ### Django3 🚀📚
   Blog Application with tagging system, commenting feature, 
